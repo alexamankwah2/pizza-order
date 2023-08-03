@@ -13,7 +13,7 @@ export default function Home({productList, admin}) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>The Pizza Restaurant in New York</title>
+        <title>The Best Pizza Restaurant in New York</title>
         <meta name="description" content="Best pizza in town" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
