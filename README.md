@@ -1,29 +1,34 @@
 # Pizza Delivery App
 Welcome to the Pizza Delivery App, a full-stack web application built using Next.js and MongoDB. This app allows users to order delicious pizzas online and pay with PayPal. With its intuitive user interface and seamless payment integration, it provides a smooth pizza ordering experience. Additionally, it includes an admin panel to track and manage orders efficiently.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![screencapture-localhost-3000-2023-08-03-19_06_26](https://github.com/alexamankwah2/pizza-order/assets/128336742/2c5807c7-afcb-417b-858c-df67aa5b2dff)
+
+## Features
+- Browse through a wide range of delicious pizzas.
+- Add pizzas to the cart with customization options (size, toppings, etc.).
+- Checkout and choose between PayPal and Cash payment options.
+- Real-time order status updates.
+- Admin panel to manage pizzas, orders, and users.
+
+## Tech Stack
+- Next.js: Frontend development framework for building fast and scalable React applications.
+- MongoDB: NoSQL database for storing and managing application data efficiently.
+- PayPal API: To facilitate secure and reliable payment processing.
+- Node.js: Backend server built with Node.js for handling requests and managing the database.
+- Other dependencies can be found in the package.json file.
 
 ## Getting Started
+- Clone the repository
+- Install the dependencies
+- Set up environment variables: Create a .env file in the root of the project
+- Run the development server: npm run dev
+- Open your web browser and navigate to http://localhost:3000 to access the app
 
-First, run the development server:
+## Demo 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
@@ -34,8 +39,3 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
