@@ -1,3 +1,6 @@
+# Pizza Delivery App
+Welcome to the Pizza Delivery App, a full-stack web application built using Next.js and MongoDB. This app allows users to order delicious pizzas online and pay with PayPal. With its intuitive user interface and seamless payment integration, it provides a smooth pizza ordering experience. Additionally, it includes an admin panel to track and manage orders efficiently.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
