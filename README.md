@@ -25,6 +25,7 @@ Welcome to the Pizza Delivery App, a full-stack web application built using Next
 - Open your web browser and navigate to http://localhost:3000 to access the app
 
 ## Demo 
+https://github.com/alexamankwah2/pizza-order/assets/128336742/1cdb2740-795d-4285-b468-3d7991b51e60
 
 
 
